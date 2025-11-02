@@ -21,7 +21,7 @@ A Python script that migrates your Apple Music library to Spotify. This project 
 
 ```bash
 git clone https://github.com/your-username/Apple-to-Spotify-converter.git
-cd Apple-to-Spotify
+cd Apple-to-Spotify-converter
 ```
 
 2. Create a virtual environment and activate it:
