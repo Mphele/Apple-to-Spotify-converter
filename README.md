@@ -70,8 +70,4 @@ python main.py
 
 ---
 
-## Notes
-
-* Only push **safe files** to GitHub: `apple_to_spotify.py`, `README.md`, `requirements.txt`, `.env.example`, `sample_library.csv`.
-* Keep your `.env` file private — it contains sensitive credentials.
 
